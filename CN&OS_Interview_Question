@@ -1,3 +1,5 @@
+CN Interview Question :
+
 OSI Model.
 TCP/IP Model.
 IP address.
@@ -26,6 +28,26 @@ Digital signature.
 MAC Address
 What is Confidentiality, Integrity & Availability?
 
-
-
+References for some important qestions : 
 https://takeuforward.org/computer-network/most-asked-computer-networks-interview-questions
+-------------------------------------------------------------------------------------------
+
+OS interview Questions :
+
+OS types.
+Process & Thread & program.
+Multiprogramming and Multitasking OS
+Socket.
+Thrashing.
+Buffer.
+Vrtual Memory.
+Kernal.
+What is a Pipe and when it is used?
+Different all types of sheduling algorithms (FCFS, SJF, SRTF, HRNN, RR, PBS, MLQ, MLFQ).
+Banker's Algorithm.
+Logical address & Physical address.
+Aging.
+Caching.
+Deadlock.
+Fragmentation and Spooling.
+RAID.
